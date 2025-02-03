@@ -6,3 +6,6 @@ Check global Git user configuration:
 
 git config --global user.name
 git config --global user.email
+
+
+adding more 
